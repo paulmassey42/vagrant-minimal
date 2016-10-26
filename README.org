@@ -1,0 +1,27 @@
+#+TITLE: Minimal Ubuntu-16.04 Desktop Env Using Vagrant
+
+* Introduction
+
+None
+
+* Requirements
+
+ vagrant 
+ virtualbox/guest utilities
+
+* Usage
+
+- Startup:: 
+
+vagrant up
+
+- Closedown::
+
+vagrant halt
+
+- Removing the machine
+
+vagrant destroy -f
+
+
+
